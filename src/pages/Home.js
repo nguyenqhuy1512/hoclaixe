@@ -17,7 +17,7 @@ import './Home.css';
 
 const Home = () => {
   const stats = [
-    { icon: FiUsers, number: '35,000+', label: 'Học viên thành công' },
+    { icon: FiUsers, number: '36,000+', label: 'Học viên thành công' },
     { icon: FiMapPin, number: '11', label: 'Chi nhánh' },
     { icon: FiAward, number: '7+', label: 'Năm kinh nghiệm' },
   ];
